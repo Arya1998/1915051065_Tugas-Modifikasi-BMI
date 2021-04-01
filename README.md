@@ -1,6 +1,7 @@
 # bmi_modifikasi
 
 Tugas memodifikasi BMI
+I Wayan Arya Gina Widyatmaja_PTI 4A_Mata Kuliah Pemrograman Mobile
 
 ## Getting Started
 
